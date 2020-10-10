@@ -1,0 +1,22 @@
+{
+  "name": "express-for-docker",
+  "version": "1.0.0",
+  "description": "express 框架搭建的编写 Docker 容器的实例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuliqi/express-for-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuliqi/express-for-docker/issues"
+  },
+  "homepage": "https://github.com/shuliqi/express-for-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
