@@ -1,4 +1,4 @@
-FROM node:12.17.0
+FROM node:8.4
 COPY . /shuliqi
 WORKDIR /shuliqi
 RUN ["npm", "install"]
